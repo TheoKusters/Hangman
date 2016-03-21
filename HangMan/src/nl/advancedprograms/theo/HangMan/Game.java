@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+// Version 1.2 
+// Theo Kusters
+
 public class Game {
 
 	public static final String EXIT_COMMAND = "exit";
